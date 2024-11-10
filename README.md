@@ -1,7 +1,3 @@
-Here's a sample README for your project on GitHub:
-
----
-
 # Astro OS - Interactive Adventure Operating System
 
 **Astro OS** is a simple, interactive, and adventure-driven operating system designed to provide a series of challenges and activities for the user. Each task in this operating system simulates real-world operations like file creation, deletion, and basic games such as Tic Tac Toe and Hangman. The OS is designed to run on a terminal, offering an intuitive menu-based interface for users to explore various features.
